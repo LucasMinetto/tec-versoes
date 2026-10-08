@@ -1,18 +1,14 @@
 {
-    "versionCode":  13,
-    "versionName":  "1.7.0",
+    "versionCode":  15,
+    "versionName":  "1.7.2",
     "minimo":  0,
-    "apk":  "apk/TEC-1.7.0.apk",
-    "sha256":  "49e0fde34560bd1e6919bced8f0dc6b5a79e9a32df361b87458605d7d615e4cf",
-    "tamanho":  1373648,
+    "apk":  "apk/TEC-1.7.2.apk",
+    "sha256":  "a50b193601f9dde8173692a2002886aff6c885183b5b8641a1dd81535d2c2a20",
+    "tamanho":  1377745,
     "publicada_em":  "2026-10-08",
     "notas":  [
-                  "Localização ao iniciar o atendimento, usada no KM da rota",
-                  "Lembrete antes de cada visita agendada",
-                  "Leitura de serial, etiqueta e NF por leitor de código de barras ou câmera",
-                  "Frases prontas e conferência antes de concluir",
-                  "Retorno na mesma OS começa em branco, com a visita anterior para consulta",
-                  "Alerta de peças paradas e RATs do mês num PDF só",
-                  "Correções: hora do aparelho, rota sem agendamento e chamado repetido"
+                  "Rota do dia e reembolso de KM pelo dia em que cada visita foi atendida",
+                  "Botão Local na OS para conferir ou corrigir o local do cliente",
+                  "Opções para procurar o endereço de novo, usar a posição atual ou apagar um local confirmado"
               ]
 }

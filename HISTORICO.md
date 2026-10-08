@@ -2,6 +2,12 @@
 
 Evolução do aplicativo, da versão mais recente para a mais antiga.
 
+## 1.7.2 — 08/10/2026
+
+- Rota do dia e reembolso de KM pelo dia em que cada visita foi atendida
+- Botão Local na OS para conferir ou corrigir o local do cliente
+- Opções para procurar o endereço de novo, usar a posição atual ou apagar um local confirmado
+
 ## Computador (Windows) 1.7.0 — 08/10/2026
 
 - Localização ao iniciar o atendimento, usada no KM da rota
