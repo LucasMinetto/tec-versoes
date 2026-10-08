@@ -2,6 +2,11 @@
 
 Evolução do aplicativo, da versão mais recente para a mais antiga.
 
+## Computador (Windows) 1.6.0 — 07/10/2026
+
+- Acesso confirmado pelo servidor
+- Novo nome: TEC
+
 ## 1.6.0 — 07/10/2026
 
 - Acesso confirmado pelo servidor

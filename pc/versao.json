@@ -1,0 +1,13 @@
+{
+    "versionCode":  5,
+    "versionName":  "1.6.0",
+    "minimo":  0,
+    "arquivo":  "pc/Instalar-TEC-1.6.0.cmd",
+    "sha256":  "63b777eff115cf3d805d4f16e17df1076846ca0efc21db4b742dea804f635400",
+    "tamanho":  1803758,
+    "publicada_em":  "2026-10-07",
+    "notas":  [
+                  "Acesso confirmado pelo servidor",
+                  "Novo nome: TEC"
+              ]
+}
