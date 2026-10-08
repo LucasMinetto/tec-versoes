@@ -1,0 +1,13 @@
+{
+    "versionCode":  11,
+    "versionName":  "1.6.0",
+    "minimo":  0,
+    "apk":  "apk/TEC-1.6.0.apk",
+    "sha256":  "4491cad191fc43caba24cc0ac947a1fb25687cf9e6efec7154276e32b468a398",
+    "tamanho":  1348469,
+    "publicada_em":  "2026-10-07",
+    "notas":  [
+                  "Acesso confirmado pelo servidor",
+                  "Novo nome: TEC"
+              ]
+}
