@@ -1,15 +1,14 @@
 {
-    "versionCode":  16,
-    "versionName":  "1.7.3",
+    "versionCode":  18,
+    "versionName":  "1.7.5",
     "minimo":  0,
-    "apk":  "apk/TEC-1.7.3.apk",
-    "sha256":  "7f0d45d9e87efad9e885aacd372d30571badec7d92ab1e751fc4e2472c00f77f",
-    "tamanho":  1377743,
+    "apk":  "apk/TEC-1.7.5.apk",
+    "sha256":  "4a0a0930edb7588be87349d6c2dbcd108797cad40e58f50dca15c232023053c7",
+    "tamanho":  1381841,
     "publicada_em":  "2026-10-08",
     "notas":  [
-                  "Endereço do PDF da OS separado em rua, número e complemento",
-                  "Campo Complemento na OS e no RAT",
-                  "Busca no mapa mais certeira (rodovias, número junto da rua, lado da via)",
-                  "Importar PDF funciona também em celulares com navegador desatualizado"
+                  "Programa de PC volta a abrir sozinho depois de se atualizar",
+                  "Erro numa tela mostra a mensagem, com Voltar ao app, em vez de tela branca",
+                  "Falha ao abrir o mapa fica só no quadro do mapa"
               ]
 }

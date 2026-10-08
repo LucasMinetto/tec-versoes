@@ -2,6 +2,12 @@
 
 Evolução do aplicativo, da versão mais recente para a mais antiga.
 
+## 1.7.5 — 08/10/2026
+
+- Programa de PC volta a abrir sozinho depois de se atualizar
+- Erro numa tela mostra a mensagem, com Voltar ao app, em vez de tela branca
+- Falha ao abrir o mapa fica só no quadro do mapa
+
 ## Computador (Windows) 1.7.3 — 08/10/2026
 
 - Endereço do PDF da OS separado em rua, número e complemento
