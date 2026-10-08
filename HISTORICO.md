@@ -2,6 +2,11 @@
 
 Evolução do aplicativo, da versão mais recente para a mais antiga.
 
+## Computador (Windows) 1.7.6 — 08/10/2026
+
+- Correção: no programa de PC 1.7.5 os botões não respondiam
+- Proteção no build contra esse tipo de defeito
+
 ## 1.7.6 — 08/10/2026
 
 - Correção: no programa de PC 1.7.5 os botões não respondiam

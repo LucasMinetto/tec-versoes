@@ -1,14 +1,13 @@
 {
-    "versionCode":  11,
-    "versionName":  "1.7.5",
+    "versionCode":  12,
+    "versionName":  "1.7.6",
     "minimo":  0,
-    "arquivo":  "pc/Instalar-TEC-1.7.5.cmd",
-    "sha256":  "ecc26f94269fb14374b8ad3d8b85e182a3702e48523c50ed66b603158bb69a70",
-    "tamanho":  1841158,
+    "arquivo":  "pc/Instalar-TEC-1.7.6.cmd",
+    "sha256":  "6daaca5b1907ddae93304e7720e137f55e5b4e00228e699204903b82802399da",
+    "tamanho":  1840374,
     "publicada_em":  "2026-10-08",
     "notas":  [
-                  "Programa de PC volta a abrir sozinho depois de se atualizar",
-                  "Erro numa tela mostra a mensagem, com Voltar ao app, em vez de tela branca",
-                  "Falha ao abrir o mapa fica só no quadro do mapa"
+                  "Correção: no programa de PC 1.7.5 os botões não respondiam",
+                  "Proteção no build contra esse tipo de defeito"
               ]
 }
