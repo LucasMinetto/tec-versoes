@@ -1,13 +1,18 @@
 {
-    "versionCode":  5,
-    "versionName":  "1.6.0",
+    "versionCode":  6,
+    "versionName":  "1.7.0",
     "minimo":  0,
-    "arquivo":  "pc/Instalar-TEC-1.6.0.cmd",
-    "sha256":  "63b777eff115cf3d805d4f16e17df1076846ca0efc21db4b742dea804f635400",
-    "tamanho":  1803758,
-    "publicada_em":  "2026-10-07",
+    "arquivo":  "pc/Instalar-TEC-1.7.0.cmd",
+    "sha256":  "18f1b4fe1ccf0934d126cf463041f9b719c15043a8d5611f05dd673bd1a1a0a6",
+    "tamanho":  1832280,
+    "publicada_em":  "2026-10-08",
     "notas":  [
-                  "Acesso confirmado pelo servidor",
-                  "Novo nome: TEC"
+                  "Localização ao iniciar o atendimento, usada no KM da rota",
+                  "Lembrete antes de cada visita agendada",
+                  "Leitura de serial, etiqueta e NF por leitor de código de barras ou câmera",
+                  "Frases prontas e conferência antes de concluir",
+                  "Retorno na mesma OS começa em branco, com a visita anterior para consulta",
+                  "Alerta de peças paradas e RATs do mês num PDF só",
+                  "Correções: hora do aparelho, rota sem agendamento e chamado repetido"
               ]
 }

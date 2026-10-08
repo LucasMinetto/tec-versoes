@@ -2,6 +2,16 @@
 
 Evolução do aplicativo, da versão mais recente para a mais antiga.
 
+## Computador (Windows) 1.7.0 — 08/10/2026
+
+- Localização ao iniciar o atendimento, usada no KM da rota
+- Lembrete antes de cada visita agendada
+- Leitura de serial, etiqueta e NF por leitor de código de barras ou câmera
+- Frases prontas e conferência antes de concluir
+- Retorno na mesma OS começa em branco, com a visita anterior para consulta
+- Alerta de peças paradas e RATs do mês num PDF só
+- Correções: hora do aparelho, rota sem agendamento e chamado repetido
+
 ## 1.7.0 — 08/10/2026
 
 - Localização ao iniciar o atendimento, usada no KM da rota
