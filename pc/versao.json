@@ -1,18 +1,14 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.7.0",
+    "versionCode":  8,
+    "versionName":  "1.7.2",
     "minimo":  0,
-    "arquivo":  "pc/Instalar-TEC-1.7.0.cmd",
-    "sha256":  "18f1b4fe1ccf0934d126cf463041f9b719c15043a8d5611f05dd673bd1a1a0a6",
-    "tamanho":  1832280,
+    "arquivo":  "pc/Instalar-TEC-1.7.2.cmd",
+    "sha256":  "ce73b7651170ac3dfa45d449adcc878c8d8b170c4652eef5fea9b4f59c0f2c62",
+    "tamanho":  1835094,
     "publicada_em":  "2026-10-08",
     "notas":  [
-                  "Localização ao iniciar o atendimento, usada no KM da rota",
-                  "Lembrete antes de cada visita agendada",
-                  "Leitura de serial, etiqueta e NF por leitor de código de barras ou câmera",
-                  "Frases prontas e conferência antes de concluir",
-                  "Retorno na mesma OS começa em branco, com a visita anterior para consulta",
-                  "Alerta de peças paradas e RATs do mês num PDF só",
-                  "Correções: hora do aparelho, rota sem agendamento e chamado repetido"
+                  "Rota do dia e reembolso de KM pelo dia em que cada visita foi atendida",
+                  "Botão Local na OS para conferir ou corrigir o local do cliente",
+                  "Opções para procurar o endereço de novo, usar a posição atual ou apagar um local confirmado"
               ]
 }
