@@ -2,6 +2,13 @@
 
 Evolução do aplicativo, da versão mais recente para a mais antiga.
 
+## Computador (Windows) 1.7.3 — 08/10/2026
+
+- Endereço do PDF da OS separado em rua, número e complemento
+- Campo Complemento na OS e no RAT
+- Busca no mapa mais certeira (rodovias, número junto da rua, lado da via)
+- Importar PDF funciona também em celulares com navegador desatualizado
+
 ## 1.7.3 — 08/10/2026
 
 - Endereço do PDF da OS separado em rua, número e complemento

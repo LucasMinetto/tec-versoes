@@ -1,14 +1,15 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.7.2",
+    "versionCode":  9,
+    "versionName":  "1.7.3",
     "minimo":  0,
-    "arquivo":  "pc/Instalar-TEC-1.7.2.cmd",
-    "sha256":  "ce73b7651170ac3dfa45d449adcc878c8d8b170c4652eef5fea9b4f59c0f2c62",
-    "tamanho":  1835094,
+    "arquivo":  "pc/Instalar-TEC-1.7.3.cmd",
+    "sha256":  "58e98df90f7d00d8efd5af14025f0d2b3f1b938c5b2c0b8ca493776020e56b9f",
+    "tamanho":  1838026,
     "publicada_em":  "2026-10-08",
     "notas":  [
-                  "Rota do dia e reembolso de KM pelo dia em que cada visita foi atendida",
-                  "Botão Local na OS para conferir ou corrigir o local do cliente",
-                  "Opções para procurar o endereço de novo, usar a posição atual ou apagar um local confirmado"
+                  "Endereço do PDF da OS separado em rua, número e complemento",
+                  "Campo Complemento na OS e no RAT",
+                  "Busca no mapa mais certeira (rodovias, número junto da rua, lado da via)",
+                  "Importar PDF funciona também em celulares com navegador desatualizado"
               ]
 }
