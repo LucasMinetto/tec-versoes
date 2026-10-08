@@ -2,6 +2,11 @@
 
 Evolução do aplicativo, da versão mais recente para a mais antiga.
 
+## 1.7.7 — 08/10/2026
+
+- Leitor de código de barras e câmera ligados por padrão
+- Bipar ou ler o código da peça ao vincular na OS
+
 ## Computador (Windows) 1.7.6 — 08/10/2026
 
 - Correção: no programa de PC 1.7.5 os botões não respondiam

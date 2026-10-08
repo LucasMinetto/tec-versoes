@@ -1,13 +1,13 @@
 {
-    "versionCode":  19,
-    "versionName":  "1.7.6",
+    "versionCode":  20,
+    "versionName":  "1.7.7",
     "minimo":  0,
-    "apk":  "apk/TEC-1.7.6.apk",
-    "sha256":  "ba7547e4b53cc8786bf9105cb2dbd6833bbc211cc7ceb2ebf3325359cf5728a7",
-    "tamanho":  1381840,
+    "apk":  "apk/TEC-1.7.7.apk",
+    "sha256":  "4b99e3e49e83b9fbfee5e45b2ba12cf2d644d0dbf9b51fb6c6b8559496c416bf",
+    "tamanho":  1381839,
     "publicada_em":  "2026-10-08",
     "notas":  [
-                  "Correção: no programa de PC 1.7.5 os botões não respondiam",
-                  "Proteção no build contra esse tipo de defeito"
+                  "Leitor de código de barras e câmera ligados por padrão",
+                  "Bipar ou ler o código da peça ao vincular na OS"
               ]
 }
