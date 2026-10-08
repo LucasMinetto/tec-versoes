@@ -1,13 +1,18 @@
 {
-    "versionCode":  12,
-    "versionName":  "1.6.1",
+    "versionCode":  13,
+    "versionName":  "1.7.0",
     "minimo":  0,
-    "apk":  "apk/TEC-1.6.1.apk",
-    "sha256":  "c85bc9e5c66aafdbbec1b8d50fd9b54e53eeb3aec8515e225c0f3838aa7fc2bb",
-    "tamanho":  1348469,
-    "publicada_em":  "2026-10-07",
+    "apk":  "apk/TEC-1.7.0.apk",
+    "sha256":  "49e0fde34560bd1e6919bced8f0dc6b5a79e9a32df361b87458605d7d615e4cf",
+    "tamanho":  1373648,
+    "publicada_em":  "2026-10-08",
     "notas":  [
-                  "Correção: o celular passa a confirmar o acesso com o servidor",
-                  "A tela de bloqueio permite verificar atualização"
+                  "Localização ao iniciar o atendimento, usada no KM da rota",
+                  "Lembrete antes de cada visita agendada",
+                  "Leitura de serial, etiqueta e NF por leitor de código de barras ou câmera",
+                  "Frases prontas e conferência antes de concluir",
+                  "Retorno na mesma OS começa em branco, com a visita anterior para consulta",
+                  "Alerta de peças paradas e RATs do mês num PDF só",
+                  "Correções: hora do aparelho, rota sem agendamento e chamado repetido"
               ]
 }
