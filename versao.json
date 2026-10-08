@@ -1,14 +1,15 @@
 {
-    "versionCode":  15,
-    "versionName":  "1.7.2",
+    "versionCode":  16,
+    "versionName":  "1.7.3",
     "minimo":  0,
-    "apk":  "apk/TEC-1.7.2.apk",
-    "sha256":  "a50b193601f9dde8173692a2002886aff6c885183b5b8641a1dd81535d2c2a20",
-    "tamanho":  1377745,
+    "apk":  "apk/TEC-1.7.3.apk",
+    "sha256":  "7f0d45d9e87efad9e885aacd372d30571badec7d92ab1e751fc4e2472c00f77f",
+    "tamanho":  1377743,
     "publicada_em":  "2026-10-08",
     "notas":  [
-                  "Rota do dia e reembolso de KM pelo dia em que cada visita foi atendida",
-                  "Botão Local na OS para conferir ou corrigir o local do cliente",
-                  "Opções para procurar o endereço de novo, usar a posição atual ou apagar um local confirmado"
+                  "Endereço do PDF da OS separado em rua, número e complemento",
+                  "Campo Complemento na OS e no RAT",
+                  "Busca no mapa mais certeira (rodovias, número junto da rua, lado da via)",
+                  "Importar PDF funciona também em celulares com navegador desatualizado"
               ]
 }
