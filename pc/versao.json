@@ -1,13 +1,13 @@
 {
-    "versionCode":  12,
-    "versionName":  "1.7.6",
+    "versionCode":  13,
+    "versionName":  "1.7.7",
     "minimo":  0,
-    "arquivo":  "pc/Instalar-TEC-1.7.6.cmd",
-    "sha256":  "6daaca5b1907ddae93304e7720e137f55e5b4e00228e699204903b82802399da",
-    "tamanho":  1840374,
+    "arquivo":  "pc/Instalar-TEC-1.7.7.cmd",
+    "sha256":  "ada93d5be27e7ccba27df335c93d6ac22527218ddb85c6720afe17f7f0602d3b",
+    "tamanho":  1841702,
     "publicada_em":  "2026-10-08",
     "notas":  [
-                  "Correção: no programa de PC 1.7.5 os botões não respondiam",
-                  "Proteção no build contra esse tipo de defeito"
+                  "Leitor de código de barras e câmera ligados por padrão",
+                  "Bipar ou ler o código da peça ao vincular na OS"
               ]
 }
