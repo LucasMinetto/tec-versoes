@@ -1,15 +1,13 @@
 {
-    "versionCode":  21,
-    "versionName":  "1.8.0",
+    "versionCode":  22,
+    "versionName":  "1.8.1",
     "minimo":  0,
-    "apk":  "apk/TEC-1.8.0.apk",
-    "sha256":  "782d35ce0ce9e2937b65f9aa3a997f91b327dfc9e7766644002ec6dc4cc8efeb",
-    "tamanho":  3930229,
+    "apk":  "apk/TEC-1.8.1.apk",
+    "sha256":  "30689037be1c07faf4c5dd0b2b0c667f199ab057eff49ebc876ee99df8b58a6f",
+    "tamanho":  3930231,
     "publicada_em":  "2026-11-18",
     "notas":  [
-                  "Importar da regional: traz as OS e os agendamentos do HTML da região, com o cadastro completo",
-                  "O print do chamado no S4F fica guardado na OS, e o app lê peças requisitadas, part numbers, distância e prazos (confira)",
-                  "A OS mostra o status e o prazo de SLA do S4F",
-                  "Correções no cadastro de OS e nos modais em telas pequenas"
+                  "Botão Importar HTML também na tela Início",
+                  "O botão e a tela de importação agora se chamam Importar HTML (antes, Importar da regional)"
               ]
 }
