@@ -2,6 +2,11 @@
 
 Evolução do aplicativo, da versão mais recente para a mais antiga.
 
+## Computador (Windows) 1.8.1 — 18/11/2026
+
+- Botão Importar HTML também na tela Início
+- O botão e a tela de importação agora se chamam Importar HTML (antes, Importar da regional)
+
 ## 1.8.1 — 18/11/2026
 
 - Botão Importar HTML também na tela Início
