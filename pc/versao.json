@@ -1,13 +1,15 @@
 {
-    "versionCode":  13,
-    "versionName":  "1.7.7",
+    "versionCode":  14,
+    "versionName":  "1.8.0",
     "minimo":  0,
-    "arquivo":  "pc/Instalar-TEC-1.7.7.cmd",
-    "sha256":  "ada93d5be27e7ccba27df335c93d6ac22527218ddb85c6720afe17f7f0602d3b",
-    "tamanho":  1841702,
-    "publicada_em":  "2026-10-08",
+    "arquivo":  "pc/Instalar-TEC-1.8.0.cmd",
+    "sha256":  "7573025779c6a28a797e1c55ced86676090c02073bd702f85015757193e330af",
+    "tamanho":  5287882,
+    "publicada_em":  "2026-11-18",
     "notas":  [
-                  "Leitor de código de barras e câmera ligados por padrão",
-                  "Bipar ou ler o código da peça ao vincular na OS"
+                  "Importar da regional: traz as OS e os agendamentos do HTML da região, com o cadastro completo",
+                  "O print do chamado no S4F fica guardado na OS, e o app lê peças requisitadas, part numbers, distância e prazos (confira)",
+                  "A OS mostra o status e o prazo de SLA do S4F",
+                  "Correções no cadastro de OS e nos modais em telas pequenas"
               ]
 }

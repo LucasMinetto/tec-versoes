@@ -2,6 +2,13 @@
 
 Evolução do aplicativo, da versão mais recente para a mais antiga.
 
+## Computador (Windows) 1.8.0 — 18/11/2026
+
+- Importar da regional: traz as OS e os agendamentos do HTML da região, com o cadastro completo
+- O print do chamado no S4F fica guardado na OS, e o app lê peças requisitadas, part numbers, distância e prazos (confira)
+- A OS mostra o status e o prazo de SLA do S4F
+- Correções no cadastro de OS e nos modais em telas pequenas
+
 ## 1.8.0 — 18/11/2026
 
 - Importar da regional: traz as OS e os agendamentos do HTML da região, com o cadastro completo
