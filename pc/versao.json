@@ -1,13 +1,14 @@
 {
-    "versionCode":  16,
-    "versionName":  "1.8.2",
+    "versionCode":  17,
+    "versionName":  "1.9.0",
     "minimo":  0,
-    "arquivo":  "pc/Instalar-TEC-1.8.2.cmd",
-    "sha256":  "23354335c50ec4d1609fe8d2172b48c177a32438292d81a31a741ee86324454e",
-    "tamanho":  5289842,
-    "publicada_em":  "2026-11-18",
+    "arquivo":  "pc/Instalar-TEC-1.9.0.cmd",
+    "sha256":  "3dd481eb3743496d79db42abeeb67f6cfc676a03f41c94e1a13fd8c502e3c0d4",
+    "tamanho":  5312172,
+    "publicada_em":  "2026-11-19",
     "notas":  [
-                  "Tutorial mais completo: ensina Importar HTML, o print e o SLA do S4F, RATs, busca e tema",
-                  "Novos passos em Agendamentos, Rota do dia, Peças, Backup e Sincronizar"
+                  "Sincronização automática: crie um código de servidor em Sincronizar e digite o mesmo nos outros aparelhos; os dados se sincronizam sozinhos, cifrados, sem Wi-Fi em comum",
+                  "Aparelho novo pode entrar com o código no primeiro acesso",
+                  "Conflitos entre aparelhos são resolvidos na tela, sem perder dados"
               ]
 }

@@ -2,6 +2,12 @@
 
 Evolução do aplicativo, da versão mais recente para a mais antiga.
 
+## Computador (Windows) 1.9.0 — 19/11/2026
+
+- Sincronização automática: crie um código de servidor em Sincronizar e digite o mesmo nos outros aparelhos; os dados se sincronizam sozinhos, cifrados, sem Wi-Fi em comum
+- Aparelho novo pode entrar com o código no primeiro acesso
+- Conflitos entre aparelhos são resolvidos na tela, sem perder dados
+
 ## 1.9.0 — 19/11/2026
 
 - Sincronização automática: crie um código de servidor em Sincronizar e digite o mesmo nos outros aparelhos; os dados se sincronizam sozinhos, cifrados, sem Wi-Fi em comum
