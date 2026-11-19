@@ -1,14 +1,12 @@
 {
-    "versionCode":  24,
-    "versionName":  "1.9.0",
+    "versionCode":  25,
+    "versionName":  "1.9.1",
     "minimo":  0,
-    "apk":  "apk/TEC-1.9.0.apk",
-    "sha256":  "b1b50f6f715c78421adef60925621490eb84ba7a2eee81fca9f6d6030b49c4e7",
+    "apk":  "apk/TEC-1.9.1.apk",
+    "sha256":  "9e55190d42f1efe3e9533e96d87ff835444a16e7031b5f11f2d3c0a64f4f404d",
     "tamanho":  3946761,
     "publicada_em":  "2026-11-19",
     "notas":  [
-                  "Sincronização automática: crie um código de servidor em Sincronizar e digite o mesmo nos outros aparelhos; os dados se sincronizam sozinhos, cifrados, sem Wi-Fi em comum",
-                  "Aparelho novo pode entrar com o código no primeiro acesso",
-                  "Conflitos entre aparelhos são resolvidos na tela, sem perder dados"
+                  "Corrige o app voltando ao início ao ligar o leitor de código de barras no tablet"
               ]
 }

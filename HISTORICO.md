@@ -2,6 +2,10 @@
 
 Evolução do aplicativo, da versão mais recente para a mais antiga.
 
+## 1.9.1 — 19/11/2026
+
+- Corrige o app voltando ao início ao ligar o leitor de código de barras no tablet
+
 ## Computador (Windows) 1.9.0 — 19/11/2026
 
 - Sincronização automática: crie um código de servidor em Sincronizar e digite o mesmo nos outros aparelhos; os dados se sincronizam sozinhos, cifrados, sem Wi-Fi em comum
