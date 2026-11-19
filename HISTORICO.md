@@ -2,6 +2,11 @@
 
 Evolução do aplicativo, da versão mais recente para a mais antiga.
 
+## Computador (Windows) 1.8.2 — 18/11/2026
+
+- Tutorial mais completo: ensina Importar HTML, o print e o SLA do S4F, RATs, busca e tema
+- Novos passos em Agendamentos, Rota do dia, Peças, Backup e Sincronizar
+
 ## 1.8.2 — 18/11/2026
 
 - Tutorial mais completo: ensina Importar HTML, o print e o SLA do S4F, RATs, busca e tema
