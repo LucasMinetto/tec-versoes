@@ -1,12 +1,12 @@
 {
-    "versionCode":  25,
-    "versionName":  "1.9.1",
+    "versionCode":  26,
+    "versionName":  "1.10.0",
     "minimo":  0,
-    "apk":  "apk/TEC-1.9.1.apk",
-    "sha256":  "9e55190d42f1efe3e9533e96d87ff835444a16e7031b5f11f2d3c0a64f4f404d",
-    "tamanho":  3946761,
-    "publicada_em":  "2026-11-19",
+    "apk":  "apk/TEC-1.10.0.apk",
+    "sha256":  "28ef68332a99b0365dbbf5ad7f3ca67e795ac662c1367e700f946f7b10d513bd",
+    "tamanho":  3950856,
+    "publicada_em":  "2026-11-25",
     "notas":  [
-                  "Corrige o app voltando ao início ao ligar o leitor de código de barras no tablet"
+                  "Rota do dia: o KM é calculado sozinho, sem apertar Calcular KM,Ao iniciar o atendimento o app pergunta se a localização está correta,Agendamento por período (ex.: tarde das 13:00 às 17:00), além de hora marcada,Rota do dia vazia deixa de mostrar Casa e Casa"
               ]
 }

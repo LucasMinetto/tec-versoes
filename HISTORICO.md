@@ -2,6 +2,10 @@
 
 Evolução do aplicativo, da versão mais recente para a mais antiga.
 
+## 1.10.0 — 25/11/2026
+
+- Rota do dia: o KM é calculado sozinho, sem apertar Calcular KM,Ao iniciar o atendimento o app pergunta se a localização está correta,Agendamento por período (ex.: tarde das 13:00 às 17:00), além de hora marcada,Rota do dia vazia deixa de mostrar Casa e Casa
+
 ## 1.9.1 — 19/11/2026
 
 - Corrige o app voltando ao início ao ligar o leitor de código de barras no tablet
