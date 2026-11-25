@@ -1,14 +1,12 @@
 {
-    "versionCode":  17,
-    "versionName":  "1.9.0",
+    "versionCode":  18,
+    "versionName":  "1.10.0",
     "minimo":  0,
-    "arquivo":  "pc/Instalar-TEC-1.9.0.cmd",
-    "sha256":  "3dd481eb3743496d79db42abeeb67f6cfc676a03f41c94e1a13fd8c502e3c0d4",
-    "tamanho":  5312172,
-    "publicada_em":  "2026-11-19",
+    "arquivo":  "pc/Instalar-TEC-1.10.0.cmd",
+    "sha256":  "7cca0642bf2296867ce8dc98381fb29db9a537aa4d7d6209cad0112e2416d668",
+    "tamanho":  5316317,
+    "publicada_em":  "2026-11-25",
     "notas":  [
-                  "Sincronização automática: crie um código de servidor em Sincronizar e digite o mesmo nos outros aparelhos; os dados se sincronizam sozinhos, cifrados, sem Wi-Fi em comum",
-                  "Aparelho novo pode entrar com o código no primeiro acesso",
-                  "Conflitos entre aparelhos são resolvidos na tela, sem perder dados"
+                  "Rota do dia: o KM é calculado sozinho, sem apertar Calcular KM,Ao iniciar o atendimento o app pergunta se a localização está correta,Agendamento por período (ex.: tarde das 13:00 às 17:00), além de hora marcada,Rota do dia vazia deixa de mostrar Casa e Casa"
               ]
 }
